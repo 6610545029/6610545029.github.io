@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.alignleft {
+	float: left;
+    display: inline-block;
+}
+.alignright {
+	float: right;
+    display: inline-block;
+}
+.aligncenter {
+    float: center;
+}
+h1{
+    font-family: "Fahkwang";
+    color: #08654c;
+    margin: 0px;
+}
+a{
+    font-family: "Fahkwang";
+    font-style:italic;
+    color: #08654c;
+    margin: 0px;
+    margin: 20px;
+
+}
+h6{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #08654c;
+    background-color: #08654c;
+    margin-top: 30px;
+}
+img{
+    width: 1200px;
+    filter: drop-shadow();
+    color: black;
+}
+pre{
+    font-family: "Fahkwang";
+    font-size: 20px;
+    font-style: italic;
+    color: brown;
+}
+h2{
+    font-family: "Fahkwang";
+    color: #FBF3D5;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #08654c;
+    background-color: #08654c;
+    border-width: 10px;
+    margin: 20px;
+    text-align: center;
+}
+li{
+    font-family: "Fahkwang";
+    color: brown;
+    font-size: 20px;
+    margin: 20px;
+}
+div > img{
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 3px 4px 5px 6px rgb(0, 0, 0);
+}
+div > a > img{
+    width: 150px;
+    margin: 20px;
+    border-radius: 30px;
+    box-shadow: 3px 4px 5px 6px #08654c;
+}
+a > img{
+    width: 50px;
+    margin: 20px;
+    border-radius: 30px;
+    box-shadow: 3px 4px 5px 6px #08654c;
+}
+div > b > a{
+    text-align: center;
+    font-size: 15px;
+    font-family: "Fahkwang";
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    margin: 20px;
+}
