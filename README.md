@@ -14,4 +14,4 @@
 </ol>
 
 
-![My picture](../6610545029/picture/mypic2.png)
+![My picture](picture/mypic2.png)
