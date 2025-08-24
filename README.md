@@ -15,4 +15,4 @@
 </ol>
 
 
-![My picture](../selfintro/picture/mypic2.png)
+![My picture](../6610545029/picture/mypic2.png)
