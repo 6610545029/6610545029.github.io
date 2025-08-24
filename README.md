@@ -5,7 +5,7 @@
 <ul>
     <li>Running and Jogging</li>
     <li>Listening to music</li>
-    <li>Watching movies<li>
+    <li>Watching movies</li>
 </ul>
 <h2>Contacts</h2>
 <ol>
